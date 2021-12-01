@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/sekthor/microservice-name-generator.git
+    repoURL: https://github.com/sekthor/argocd-test.git
     targetRevision: HEAD
     path: dev
   destination:
